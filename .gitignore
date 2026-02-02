@@ -23,6 +23,7 @@ models/*.h5
 models/*.pt
 models/*.pth
 models/*.keras
+models/*.pkl
 *.onnx
 
 # IDE

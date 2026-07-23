@@ -1,16 +1,6 @@
 <h1 align="center">🌾 PaddyNet — AI-Powered Paddy Disease Detection & Advisory Agent</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/EfficientNet-B3-4B8BBE" alt="EfficientNet"/>
-  <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/LLM-Ollama%20(local)-000000?logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Val%20Accuracy-97.63%25-brightgreen" alt="Accuracy"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License"/>
-</p>
-
-<p align="center">
   A deep-learning classifier that identifies <b>10 paddy (rice) leaf conditions</b> from a photo, wrapped in an
   <b>agentic AI assistant</b> that explains the diagnosis and advises farmers on treatment — all running <b>free and offline</b>.
 </p>

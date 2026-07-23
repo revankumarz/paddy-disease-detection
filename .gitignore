@@ -24,6 +24,7 @@ models/*.pt
 models/*.pth
 models/*.keras
 models/*.pkl
+models/tf_cache/
 *.onnx
 
 # IDE

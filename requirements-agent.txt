@@ -1,0 +1,4 @@
+# Agent layer (in addition to the training requirements.txt)
+streamlit>=1.30.0
+requests>=2.28.0
+# tensorflow, pillow, numpy already installed for training

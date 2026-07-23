@@ -226,12 +226,12 @@ Reload the app — the sidebar shows **🧠 Local AI online**.
 
 ## 🌐 Access from Other Devices & Deployment
 
-| Option | Access from | Cost |
-|--------|-------------|------|
-| **Local** | This machine | Free |
-| **Same WiFi (LAN)** | Any device on your network → run `run_agent_network.bat`, open `http://<your-ip>:8501` | Free |
-| **Internet tunnel** | Anywhere → `ngrok http 8501` gives a public URL | Free tier |
-| **Cloud (always-on)** | Anywhere, no host PC needed → e.g. Hugging Face Spaces + hosted model & LLM | Free-ish |
+| Option | Access from |
+|--------|-------------|
+| **Local** | This machine |
+| **Same WiFi (LAN)** | Any device on your network → run `run_agent_network.bat`, open `http://<your-ip>:8501` |
+| **Internet tunnel** | Anywhere → `ngrok http 8501` gives a public URL |
+| **Cloud (always-on)** | Anywhere, no host PC needed → e.g. Hugging Face Spaces + hosted model & LLM |
 
 > The app is a server, so a machine has to run it. LAN and tunnel keep everything on your PC; a cloud deploy
 > needs the model hosted externally (GitHub Release / HF Hub) and a hosted LLM in place of local Ollama.
